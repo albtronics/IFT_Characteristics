@@ -27,9 +27,9 @@
 - **The log of frequencies were found.**
 
 - **The Gain in dB is found out by the formula:** 
-  $$
-  Gain = 20 * log ( Vo / Vin )
-  $$
+ 
+     **Gain = 20 * log ( Vo / Vin )**
+  
 
 - **Finally the graph Log( f ) vs Gain in dB is plotted.**
 
